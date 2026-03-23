@@ -3,9 +3,7 @@ uvicorn==0.30.1
 python-dotenv==1.0.1
 httpx==0.27.0
 numpy
-joblib==1.4.2
 pandas
 scipy
 scikit-learn
-
-streamlit==1.36.0
+joblib==1.4.2
